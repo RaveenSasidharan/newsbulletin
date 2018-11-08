@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsBulletin</string>
+    <string name="news_api_key"></string>
+    <string name="title_activity_news_feed_presenter">NewsFeedPresenterActivity</string>
+</resources>
